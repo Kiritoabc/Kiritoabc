@@ -1,4 +1,5 @@
 ### Hi there 👋
+ 
 
 <!--
 **Kiritoabc/Kiritoabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Kiritoabc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritoabc&layout=compact&theme=dark)](https://github.com/USERNAME/github-readme-stats)
