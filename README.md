@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![:Kiritoabc](https://count.getloli.com/get/@:Kiritoabc?theme=gelbooru-h)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritoabc&layout=compact&theme=dark)](https://github.com/USERNAME/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kiritoabc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
