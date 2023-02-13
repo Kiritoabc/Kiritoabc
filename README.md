@@ -85,11 +85,11 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  And Languages Top  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kiritoabc&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kiritoabc&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" /></div>  
 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritoabc&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritoabc&hide_border=true&layout=compact&theme=tokyonight" align="left"/>  
 
 
