@@ -19,25 +19,29 @@ Here are some ideas to get you started:
 
 
 
-## Intro  
+
+## 牵风散步的雲---Info 
+<table><tr><td valign="top" width="50%">
+
+
+- 🌱      我是一名在校大学生
+  
+
+- ❓       目前主要学习java和golang 
+ 
+
+- ⚡      兴趣爱好是：看动漫 
+
+- 💬      ...
+
+</td><td valign="top" width="50%">
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height:200px;" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">我是一名普通的编程爱好者</div>  
-  
 
-- 🌱 我目前主要学习java和golang  
-  
-
-- ❓ 平时喜欢看看动漫  
-  
-
-- ⚡ 目前是一名在校大学生  
-  
-
-<br/>  
+</td></tr></table>  
 
 
 ## My Skill Set  
@@ -81,15 +85,17 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kiritoabc&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritoabc&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
 <br/>  
-
-
-## Github Stats  And Languages Top  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kiritoabc&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" /></div>  
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritoabc&hide_border=true&layout=compact&theme=tokyonight" align="left"/>  
 
 
