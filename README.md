@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![:Kiritoabc](https://count.getloli.com/get/@:Kiritoabc?theme=gelbooru-h)
 
 
 
