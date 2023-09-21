@@ -20,27 +20,12 @@ Here are some ideas to get you started:
 
 
 ## 牵风散步的雲---Info 
-<table><tr><td valign="top" width="50%">
+- **<div align="center">🌱      我是一名在校大学生</div>**
 
+- **<div align="center">❓       目前主要学习java和golang </div>**
 
-- 🌱      我是一名在校大学生
+- **<div align="center">⚡      兴趣爱好是：看动漫 & coding</div>**
   
-
-- ❓       目前主要学习java和golang 
- 
-
-- ⚡      兴趣爱好是：看动漫 
-
-- 💬      ...
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 
 ## My Skill Set  
