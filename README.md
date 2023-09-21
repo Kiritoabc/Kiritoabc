@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div aligen="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%96%E4%BA%BA%E9%81%93%E4%BD%A0%E8%BD%BB%E7%8B%82%EF%BC%8C%E5%8F%AF%E4%BD%A0%E6%9C%AC%E5%B0%B1%E5%B9%B4%E5%B0%91%EF%BC%81)](https://git.io/typing-svg)
 
+</div>
 
 ## 牵风散步的雲---Info 
  **<div align="center">🌱      我是一名在校大学生</div>**
