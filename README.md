@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 
 ![profile](https://github-profile-trophy.vercel.app/?username=Kiritoabc&theme=algolia&column=8)
 
+![](https://activity-graph.herokuapp.com/graph?username=Kiritoabc&theme=github)
 <br/>  
 
 
