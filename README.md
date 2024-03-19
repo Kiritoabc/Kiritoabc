@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 牵风散步的雲---Info 
  **<div align="center">🌱      我是一名在校大学生</div>**
 
- **<div align="center">❓       目前主要学习golang （java一边去 </div>**
+ **<div align="center">❓       目前主要学习golang </div>**
 
  **<div align="center">⚡      兴趣爱好是：看动漫 & coding</div>**
  
